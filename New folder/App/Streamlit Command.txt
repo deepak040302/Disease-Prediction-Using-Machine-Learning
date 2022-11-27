@@ -1,1 +1,0 @@
-streamlit run "C:\Users\depak\OneDrive\Desktop\New folder\App\Diseases Prediction System.py"
